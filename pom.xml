@@ -263,6 +263,7 @@
                         <configuration>
                             <effort>Max</effort>
                             <xmlOutput>true</xmlOutput>
+			    <findbugsXmlOutput>true</findbugsXmlOutput>
                         </configuration>
                     </plugin>
                 </plugins>
